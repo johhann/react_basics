@@ -1,0 +1,32 @@
+[
+    {
+        "book_id": 1,
+        "title": "Dertogada",
+        "author": "Yismake Worku",
+        "completed": true
+    },
+    {
+        "book_id": 2,
+        "title": "The boy",
+        "author": "boy man",
+        "completed": false
+    },
+    {
+        "book_id": 3,
+        "title": "Enat",
+        "author": "malef Worku",
+        "completed": false
+    },
+    {
+        "book_id": 4,
+        "title": "Ethiopia",
+        "author": "the ethiopian",
+        "completed": false
+    },
+    {
+        "book_id": 5,
+        "title": "Family",
+        "author": "Adey kid",
+        "completed": false
+    }
+]
